@@ -53,3 +53,18 @@ body{
         background-repeat: no-repeat;
         background-position: left;
     }
+    #Full-Stack-Web-Developer{
+        border-left: 7px solid ;
+        border-image:linear-gradient(rgb(65, 224, 252),rgb(106, 221, 52));
+        border-image-slice: 1;
+       
+    }
+    #Baby-Web-Developer{
+        border-left: 7px solid ;
+        border-image:linear-gradient(rgb(247, 37, 0),rgb(213, 109, 223));
+        border-image-slice: 1;
+    }
+    footer{
+        text-align: center;
+        margin-bottom: 35px;
+    }
